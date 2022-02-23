@@ -1,0 +1,804 @@
+PWD C:\Users\gonec\OneDrive\Documents\Latex\contest-master
+INPUT C:\Users\gonec\AppData\Local\MiKTeX\miktex\data\le\xetex\xelatex.fmt
+INPUT codebook-test.tex
+OUTPUT codebook-test.log
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\amscls\amsthm.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amscls\amsthm.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amscls\amsthm.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amscls\amsthm.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amscls\amsthm.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amscls\amsthm.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amscls\amsthm.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amscls\amsthm.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amscls\amsthm.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amscls\amsthm.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amscls\amsthm.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-xetex.def
+INPUT extractbb "--version"
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec-xetex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec-xetex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec-xetex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec-xetex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec-xetex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec-xetex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec-xetex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec-xetex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec-xetex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec-xetex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec-xetex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\tuenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\x11nam.def
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\x11nam.def
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\x11nam.def
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\x11nam.def
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ctex\ctexhook.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ctex\ctexhook.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ctex\ctexhook.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ctex\ctexhook.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ctex\ctexhook.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ctex\ctexhook.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ctex\ctexhook.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ctex\ctexhook.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ctex\ctexhook.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ctex\ctexhook.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ctex\ctexhook.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\cjk\CJKfntef.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJKfntef.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xtemplate\xtemplate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xtemplate\xtemplate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xtemplate\xtemplate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xtemplate\xtemplate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xtemplate\xtemplate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xtemplate\xtemplate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xtemplate\xtemplate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xtemplate\xtemplate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xtemplate\xtemplate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xtemplate\xtemplate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xtemplate\xtemplate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK-listings.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK-listings.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK-listings.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK-listings.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK-listings.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK-listings.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK-listings.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK-listings.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK-listings.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK-listings.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK-listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK.cfg
+INPUT C:\Program Files\MiKTeX\tex\xelatex\xecjk\xeCJK.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\courier.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\courier.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\courier.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\courier.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\courier.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\courier.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\courier.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\courier.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\courier.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\courier.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\courier.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT .\codebook-test.aux
+INPUT codebook-test.aux
+INPUT codebook-test.aux
+OUTPUT codebook-test.aux
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ts1cmr.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ts1cmr.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ts1cmr.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ts1cmr.fd
+INPUT .\codebook-test.toc
+INPUT codebook-test.toc
+INPUT codebook-test.toc
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+OUTPUT codebook-test.toc
+INPUT .\basic\vimrc
+INPUT .\basic\vimrc
+INPUT basic\vimrc
+INPUT .\basic\vimrc
+INPUT .\basic\vimrc
+INPUT basic\vimrc
+INPUT .\basic\vimrc
+INPUT basic\vimrc
+INPUT .\basic\defalt.cpp
+INPUT basic\defalt.cpp
+INPUT .\basic\defalt.cpp
+INPUT basic\defalt.cpp
+INPUT .\basic\defalt.cpp
+INPUT basic\defalt.cpp
+INPUT .\basic\IncStack.cpp
+INPUT basic\IncStack.cpp
+INPUT .\basic\IncStack.cpp
+INPUT basic\IncStack.cpp
+INPUT .\basic\IncStack.cpp
+INPUT basic\IncStack.cpp
+INPUT .\math\O(1)mul.cpp
+INPUT math\O(1)mul.cpp
+INPUT .\math\O(1)mul.cpp
+INPUT math\O(1)mul.cpp
+INPUT .\math\O(1)mul.cpp
+INPUT math\O(1)mul.cpp
+INPUT .\math\Bigint_full.cpp
+INPUT math\Bigint_full.cpp
+INPUT .\math\Bigint_full.cpp
+INPUT math\Bigint_full.cpp
+INPUT .\math\Bigint_full.cpp
+INPUT math\Bigint_full.cpp
+INPUT .\math\linearRecurrence.cpp
+INPUT math\linearRecurrence.cpp
+INPUT .\math\linearRecurrence.cpp
+INPUT math\linearRecurrence.cpp
+INPUT .\math\linearRecurrence.cpp
+INPUT math\linearRecurrence.cpp
+INPUT .\math\FastPow.cpp
+INPUT math\FastPow.cpp
+INPUT .\math\FastPow.cpp
+INPUT math\FastPow.cpp
+INPUT .\math\FastPow.cpp
+INPUT math\FastPow.cpp
+INPUT .\math\Miller_Rabin.cpp
+INPUT math\Miller_Rabin.cpp
+INPUT .\math\Miller_Rabin.cpp
+INPUT math\Miller_Rabin.cpp
+INPUT .\math\Miller_Rabin.cpp
+INPUT math\Miller_Rabin.cpp
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT .\math\Faulhaber.cpp
+INPUT math\Faulhaber.cpp
+INPUT .\math\Faulhaber.cpp
+INPUT math\Faulhaber.cpp
+INPUT .\math\Faulhaber.cpp
+INPUT math\Faulhaber.cpp
+INPUT .\math\chineseRemainder.cpp
+INPUT math\chineseRemainder.cpp
+INPUT .\math\chineseRemainder.cpp
+INPUT math\chineseRemainder.cpp
+INPUT .\math\chineseRemainder.cpp
+INPUT math\chineseRemainder.cpp
+INPUT .\math\pollardRho.cpp
+INPUT math\pollardRho.cpp
+INPUT .\math\pollardRho.cpp
+INPUT math\pollardRho.cpp
+INPUT .\math\pollardRho.cpp
+INPUT math\pollardRho.cpp
+INPUT .\math\Josephus.cpp
+INPUT math\Josephus.cpp
+INPUT .\math\Josephus.cpp
+INPUT math\Josephus.cpp
+INPUT .\math\Josephus.cpp
+INPUT math\Josephus.cpp
+INPUT .\math\gauss.cpp
+INPUT math\gauss.cpp
+INPUT .\math\gauss.cpp
+INPUT math\gauss.cpp
+INPUT .\math\gauss.cpp
+INPUT math\gauss.cpp
+INPUT .\math\ax+by=gcd.cpp
+INPUT math\ax+by=gcd.cpp
+INPUT .\math\ax+by=gcd.cpp
+INPUT math\ax+by=gcd.cpp
+INPUT .\math\ax+by=gcd.cpp
+INPUT math\ax+by=gcd.cpp
+INPUT .\math\DiscreteSqrt.cpp
+INPUT math\DiscreteSqrt.cpp
+INPUT .\math\DiscreteSqrt.cpp
+INPUT math\DiscreteSqrt.cpp
+INPUT .\math\DiscreteSqrt.cpp
+INPUT math\DiscreteSqrt.cpp
+INPUT .\math\Romberg.cpp
+INPUT math\Romberg.cpp
+INPUT .\math\Romberg.cpp
+INPUT math\Romberg.cpp
+INPUT .\math\Romberg.cpp
+INPUT math\Romberg.cpp
+INPUT .\math\rootsOfPolynomial.cpp
+INPUT math\rootsOfPolynomial.cpp
+INPUT .\math\rootsOfPolynomial.cpp
+INPUT math\rootsOfPolynomial.cpp
+INPUT .\math\rootsOfPolynomial.cpp
+INPUT math\rootsOfPolynomial.cpp
+INPUT .\math\primes.cpp
+INPUT math\primes.cpp
+INPUT .\math\primes.cpp
+INPUT math\primes.cpp
+INPUT .\math\primes.cpp
+INPUT math\primes.cpp
+INPUT .\math\phi.cpp
+INPUT math\phi.cpp
+INPUT .\math\phi.cpp
+INPUT math\phi.cpp
+INPUT .\math\phi.cpp
+INPUT math\phi.cpp
+INPUT .\math\theorem.tex
+INPUT math\theorem.tex
+INPUT .\math\theorem.tex
+INPUT math\theorem.tex
+INPUT .\geometry\definition.cpp
+INPUT geometry\definition.cpp
+INPUT .\geometry\definition.cpp
+INPUT geometry\definition.cpp
+INPUT .\geometry\definition.cpp
+INPUT geometry\definition.cpp
+INPUT .\geometry\Intersection_of_two_lines.cpp
+INPUT geometry\Intersection_of_two_lines.cpp
+INPUT .\geometry\Intersection_of_two_lines.cpp
+INPUT geometry\Intersection_of_two_lines.cpp
+INPUT .\geometry\Intersection_of_two_lines.cpp
+INPUT geometry\Intersection_of_two_lines.cpp
+INPUT .\geometry\Half_plane_intersection.cpp
+INPUT geometry\Half_plane_intersection.cpp
+INPUT .\geometry\Half_plane_intersection.cpp
+INPUT geometry\Half_plane_intersection.cpp
+INPUT .\geometry\Half_plane_intersection.cpp
+INPUT geometry\Half_plane_intersection.cpp
+INPUT .\geometry\convex_hull.cpp
+INPUT geometry\convex_hull.cpp
+INPUT .\geometry\convex_hull.cpp
+INPUT geometry\convex_hull.cpp
+INPUT .\geometry\convex_hull.cpp
+INPUT geometry\convex_hull.cpp
+INPUT .\geometry\Intersection_of_two_segments.cpp
+INPUT geometry\Intersection_of_two_segments.cpp
+INPUT .\geometry\Intersection_of_two_segments.cpp
+INPUT geometry\Intersection_of_two_segments.cpp
+INPUT .\geometry\Intersection_of_two_segments.cpp
+INPUT geometry\Intersection_of_two_segments.cpp
+INPUT .\geometry\Tangent_line_of_two_circles.cpp
+INPUT geometry\Tangent_line_of_two_circles.cpp
+INPUT .\geometry\Tangent_line_of_two_circles.cpp
+INPUT geometry\Tangent_line_of_two_circles.cpp
+INPUT .\geometry\Tangent_line_of_two_circles.cpp
+INPUT geometry\Tangent_line_of_two_circles.cpp
+INPUT .\geometry\triangle.cpp
+INPUT geometry\triangle.cpp
+INPUT .\geometry\triangle.cpp
+INPUT geometry\triangle.cpp
+INPUT .\geometry\triangle.cpp
+INPUT geometry\triangle.cpp
+INPUT .\graph\MaximumClique.cpp
+INPUT graph\MaximumClique.cpp
+INPUT .\graph\MaximumClique.cpp
+INPUT graph\MaximumClique.cpp
+INPUT .\graph\MaximumClique.cpp
+INPUT graph\MaximumClique.cpp
+INPUT .\graph\MaximalClique.cpp
+INPUT graph\MaximalClique.cpp
+INPUT .\graph\MaximalClique.cpp
+INPUT graph\MaximalClique.cpp
+INPUT .\graph\MaximalClique.cpp
+INPUT graph\MaximalClique.cpp
+INPUT .\graph\kosaraju.cpp
+INPUT graph\kosaraju.cpp
+INPUT .\graph\kosaraju.cpp
+INPUT graph\kosaraju.cpp
+INPUT .\graph\kosaraju.cpp
+INPUT graph\kosaraju.cpp
+INPUT .\graph\MinMeanCycle.cpp
+INPUT graph\MinMeanCycle.cpp
+INPUT .\graph\MinMeanCycle.cpp
+INPUT graph\MinMeanCycle.cpp
+INPUT .\graph\MinMeanCycle.cpp
+INPUT graph\MinMeanCycle.cpp
+INPUT .\graph\DirectedGraphMinCycle.cpp
+INPUT graph\DirectedGraphMinCycle.cpp
+INPUT .\graph\DirectedGraphMinCycle.cpp
+INPUT graph\DirectedGraphMinCycle.cpp
+INPUT .\graph\DirectedGraphMinCycle.cpp
+INPUT graph\DirectedGraphMinCycle.cpp
+INPUT .\graph\KSP.cpp
+INPUT graph\KSP.cpp
+INPUT .\graph\KSP.cpp
+INPUT graph\KSP.cpp
+INPUT .\graph\KSP.cpp
+INPUT graph\KSP.cpp
+INPUT .\graph\spfa.cpp
+INPUT graph\spfa.cpp
+INPUT .\graph\spfa.cpp
+INPUT graph\spfa.cpp
+INPUT .\graph\spfa.cpp
+INPUT graph\spfa.cpp
+INPUT .\graph\SystemOfDifferenceConstraints.tex
+INPUT graph\SystemOfDifferenceConstraints.tex
+INPUT .\graph\SystemOfDifferenceConstraints.tex
+INPUT graph\SystemOfDifferenceConstraints.tex
+INPUT .\graph\eulerPath.cpp
+INPUT graph\eulerPath.cpp
+INPUT .\graph\eulerPath.cpp
+INPUT graph\eulerPath.cpp
+INPUT .\graph\eulerPath.cpp
+INPUT graph\eulerPath.cpp
+INPUT .\string\PalTree2.cpp
+INPUT string\PalTree2.cpp
+INPUT .\string\PalTree2.cpp
+INPUT string\PalTree2.cpp
+INPUT .\string\PalTree2.cpp
+INPUT string\PalTree2.cpp
+INPUT .\string\KMP.cpp
+INPUT string\KMP.cpp
+INPUT .\string\KMP.cpp
+INPUT string\KMP.cpp
+INPUT .\string\KMP.cpp
+INPUT string\KMP.cpp
+INPUT .\string\SAIS.cpp
+INPUT string\SAIS.cpp
+INPUT .\string\SAIS.cpp
+INPUT string\SAIS.cpp
+INPUT .\string\SAIS.cpp
+INPUT string\SAIS.cpp
+INPUT .\string\SAM.cpp
+INPUT string\SAM.cpp
+INPUT .\string\SAM.cpp
+INPUT string\SAM.cpp
+INPUT .\string\SAM.cpp
+INPUT string\SAM.cpp
+INPUT .\string\Aho-Corasick.cpp
+INPUT string\Aho-Corasick.cpp
+INPUT .\string\Aho-Corasick.cpp
+INPUT string\Aho-Corasick.cpp
+INPUT .\string\Aho-Corasick.cpp
+INPUT string\Aho-Corasick.cpp
+INPUT .\string\zvalue.cpp
+INPUT string\zvalue.cpp
+INPUT .\string\zvalue.cpp
+INPUT string\zvalue.cpp
+INPUT .\string\zvalue.cpp
+INPUT string\zvalue.cpp
+INPUT .\string\BWT.cpp
+INPUT string\BWT.cpp
+INPUT .\string\BWT.cpp
+INPUT string\BWT.cpp
+INPUT .\string\BWT.cpp
+INPUT string\BWT.cpp
+INPUT .\string\zvalue_palindrome.cpp
+INPUT string\zvalue_palindrome.cpp
+INPUT .\string\zvalue_palindrome.cpp
+INPUT string\zvalue_palindrome.cpp
+INPUT .\string\zvalue_palindrome.cpp
+INPUT string\zvalue_palindrome.cpp
+INPUT .\string\minRotation.cpp
+INPUT string\minRotation.cpp
+INPUT .\string\minRotation.cpp
+INPUT string\minRotation.cpp
+INPUT .\string\minRotation.cpp
+INPUT string\minRotation.cpp
+INPUT .\string\cyclicLCS.cpp
+INPUT string\cyclicLCS.cpp
+INPUT .\string\cyclicLCS.cpp
+INPUT string\cyclicLCS.cpp
+INPUT .\string\cyclicLCS.cpp
+INPUT string\cyclicLCS.cpp
+INPUT .\dataStructure\linklist.cpp
+INPUT dataStructure\linklist.cpp
+INPUT .\dataStructure\linklist.cpp
+INPUT dataStructure\linklist.cpp
+INPUT .\dataStructure\linklist.cpp
+INPUT dataStructure\linklist.cpp
+INPUT .\dataStructure\treap_split_key&kth.cpp
+INPUT dataStructure\treap_split_key&kth.cpp
+INPUT .\dataStructure\treap_split_key&kth.cpp
+INPUT dataStructure\treap_split_key&kth.cpp
+INPUT .\dataStructure\treap_split_key&kth.cpp
+INPUT dataStructure\treap_split_key&kth.cpp
+INPUT .\dataStructure\link_cut_tree.cpp
+INPUT dataStructure\link_cut_tree.cpp
+INPUT .\dataStructure\link_cut_tree.cpp
+INPUT dataStructure\link_cut_tree.cpp
+INPUT .\dataStructure\link_cut_tree.cpp
+INPUT dataStructure\link_cut_tree.cpp
+INPUT .\dataStructure\DisjointSet1.cpp
+INPUT dataStructure\DisjointSet1.cpp
+INPUT .\dataStructure\DisjointSet1.cpp
+INPUT dataStructure\DisjointSet1.cpp
+INPUT .\dataStructure\DisjointSet1.cpp
+INPUT dataStructure\DisjointSet1.cpp
+INPUT .\dataStructure\seg_tree.cpp
+INPUT dataStructure\seg_tree.cpp
+INPUT .\dataStructure\seg_tree.cpp
+INPUT dataStructure\seg_tree.cpp
+INPUT .\dataStructure\seg_tree.cpp
+INPUT dataStructure\seg_tree.cpp
+INPUT .\dataStructure\BitIndexTree.cpp
+INPUT dataStructure\BitIndexTree.cpp
+INPUT .\dataStructure\BitIndexTree.cpp
+INPUT dataStructure\BitIndexTree.cpp
+INPUT .\dataStructure\BitIndexTree.cpp
+INPUT dataStructure\BitIndexTree.cpp
+INPUT .\dataStructure\Persistentds.cpp
+INPUT dataStructure\Persistentds.cpp
+INPUT .\dataStructure\Persistentds.cpp
+INPUT dataStructure\Persistentds.cpp
+INPUT .\dataStructure\Persistentds.cpp
+INPUT dataStructure\Persistentds.cpp
+INPUT .\dataStructure\extc_bt.cpp
+INPUT dataStructure\extc_bt.cpp
+INPUT .\dataStructure\extc_bt.cpp
+INPUT dataStructure\extc_bt.cpp
+INPUT .\dataStructure\extc_bt.cpp
+INPUT dataStructure\extc_bt.cpp
+INPUT .\others\maxtan.cpp
+INPUT others\maxtan.cpp
+INPUT .\others\maxtan.cpp
+INPUT others\maxtan.cpp
+INPUT .\others\maxtan.cpp
+INPUT others\maxtan.cpp
+INPUT .\others\exactCoverSet.cpp
+INPUT others\exactCoverSet.cpp
+INPUT .\others\exactCoverSet.cpp
+INPUT others\exactCoverSet.cpp
+INPUT .\others\exactCoverSet.cpp
+INPUT others\exactCoverSet.cpp
+INPUT .\others\merge.cpp
+INPUT others\merge.cpp
+INPUT .\others\merge.cpp
+INPUT others\merge.cpp
+INPUT .\others\merge.cpp
+INPUT others\merge.cpp
+INPUT codebook-test.aux

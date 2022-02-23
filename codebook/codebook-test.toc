@@ -1,0 +1,64 @@
+\contentsline {section}{\numberline {1}Basic}{1}{}%
+\contentsline {subsection}{\numberline {1.1}.vimrc}{1}{}%
+\contentsline {subsection}{\numberline {1.2}Default code}{1}{}%
+\contentsline {subsection}{\numberline {1.3}Increase Stack Size}{1}{}%
+\contentsline {section}{\numberline {2}Math}{1}{}%
+\contentsline {subsection}{\numberline {2.1}O(1)mul}{1}{}%
+\contentsline {subsection}{\numberline {2.2}BigInt}{1}{}%
+\contentsline {subsection}{\numberline {2.3}Linear Recurrence}{2}{}%
+\contentsline {subsection}{\numberline {2.4}Fast Pow}{2}{}%
+\contentsline {subsection}{\numberline {2.5}Miller Rabin}{3}{}%
+\contentsline {subsection}{\numberline {2.6}Faulhaber ($\DOTSB \sum@ \slimits@ \limits _{i=1}^{n}i^p$)}{3}{}%
+\contentsline {subsection}{\numberline {2.7}Chinese Remainder}{3}{}%
+\contentsline {subsection}{\numberline {2.8}Pollard Rho}{3}{}%
+\contentsline {subsection}{\numberline {2.9}Josephus Problem}{3}{}%
+\contentsline {subsection}{\numberline {2.10}Gaussian Elimination 高斯消}{3}{}%
+\contentsline {subsection}{\numberline {2.11}ax+by=gcd}{4}{}%
+\contentsline {subsection}{\numberline {2.12}Discrete sqrt}{4}{}%
+\contentsline {subsection}{\numberline {2.13}Romberg 定積分}{4}{}%
+\contentsline {subsection}{\numberline {2.14}Roots of Polynomial 找多項式的根}{4}{}%
+\contentsline {subsection}{\numberline {2.15}Primes}{4}{}%
+\contentsline {subsection}{\numberline {2.16}Phi $\phi (n)$}{4}{}%
+\contentsline {subsection}{\numberline {2.17}Result}{5}{}%
+\contentsline {section}{\numberline {3}Geometry}{5}{}%
+\contentsline {subsection}{\numberline {3.1}definition}{5}{}%
+\contentsline {subsection}{\numberline {3.2}Intersection of 2 lines 兩線關係}{5}{}%
+\contentsline {subsection}{\numberline {3.3}halfPlaneIntersection 半平面交}{5}{}%
+\contentsline {subsection}{\numberline {3.4}Convex Hull 凸包}{6}{}%
+\contentsline {subsection}{\numberline {3.5}Intersection of 2 segments 線段交}{6}{}%
+\contentsline {subsection}{\numberline {3.6}Tangent line of two circles 兩圓共同切線}{6}{}%
+\contentsline {subsection}{\numberline {3.7}Heart of Triangle}{6}{}%
+\contentsline {section}{\numberline {4}Graph}{6}{}%
+\contentsline {subsection}{\numberline {4.1}MaximumClique 最大團}{6}{}%
+\contentsline {subsection}{\numberline {4.2}MaximalClique 極大團}{7}{}%
+\contentsline {subsection}{\numberline {4.3}Strongly Connected Component 強連通分量}{7}{}%
+\contentsline {subsection}{\numberline {4.4}Min Mean Cycle 最小環平均}{7}{}%
+\contentsline {subsection}{\numberline {4.5}Directed Graph Min Cost Cycle 最小環}{7}{}%
+\contentsline {subsection}{\numberline {4.6}K-th Shortest Path 第K短路徑}{8}{}%
+\contentsline {subsection}{\numberline {4.7}SPFA}{9}{}%
+\contentsline {subsection}{\numberline {4.8}差分約束}{9}{}%
+\contentsline {subsection}{\numberline {4.9}eulerPath}{9}{}%
+\contentsline {section}{\numberline {5}String}{9}{}%
+\contentsline {subsection}{\numberline {5.1}PalTree}{9}{}%
+\contentsline {subsection}{\numberline {5.2}KMP}{10}{}%
+\contentsline {subsection}{\numberline {5.3}SAIS}{10}{}%
+\contentsline {subsection}{\numberline {5.4}SuffixAutomata}{10}{}%
+\contentsline {subsection}{\numberline {5.5}Aho-Corasick AC!!!!!}{11}{}%
+\contentsline {subsection}{\numberline {5.6}Z Value}{11}{}%
+\contentsline {subsection}{\numberline {5.7}BWT}{11}{}%
+\contentsline {subsection}{\numberline {5.8}ZValue Palindrome}{11}{}%
+\contentsline {subsection}{\numberline {5.9}Smallest Rotation}{12}{}%
+\contentsline {subsection}{\numberline {5.10}Cyclic LCS}{12}{}%
+\contentsline {section}{\numberline {6}Data Structure}{12}{}%
+\contentsline {subsection}{\numberline {6.1}Link List}{12}{}%
+\contentsline {subsection}{\numberline {6.2}Treap}{13}{}%
+\contentsline {subsection}{\numberline {6.3}Link-Cut Tree}{13}{}%
+\contentsline {subsection}{\numberline {6.4}Disjoint Set}{14}{}%
+\contentsline {subsection}{\numberline {6.5}Segment Tree}{14}{}%
+\contentsline {subsection}{\numberline {6.6}Bit Index Tree}{14}{}%
+\contentsline {subsection}{\numberline {6.7}持久化 Segment Tree}{14}{}%
+\contentsline {subsection}{\numberline {6.8}Black Magic}{15}{}%
+\contentsline {section}{\numberline {7}Others}{15}{}%
+\contentsline {subsection}{\numberline {7.1}Find max tangent(x,y is increasing)}{15}{}%
+\contentsline {subsection}{\numberline {7.2}Exact Cover Set}{15}{}%
+\contentsline {subsection}{\numberline {7.3}逆序數對Merge sort}{16}{}%
